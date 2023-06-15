@@ -1,0 +1,21 @@
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\bin\Debug\WindowsFormsApp7 дом 19-06 2.exe.config
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\bin\Debug\WindowsFormsApp7 дом 19-06 2.exe
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\bin\Debug\WindowsFormsApp7 дом 19-06 2.pdb
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csprojAssemblyReference.cache
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7_дом_19_06_2.Form1.resources
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7_дом_19_06_2.Properties.Resources.resources
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csproj.GenerateResource.cache
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csproj.CoreCompileInputs.cache
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.exe
+D:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.pdb
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\bin\Debug\WindowsFormsApp7 дом 19-06 2.exe.config
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\bin\Debug\WindowsFormsApp7 дом 19-06 2.exe
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\bin\Debug\WindowsFormsApp7 дом 19-06 2.pdb
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csproj.AssemblyReference.cache
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csproj.SuggestedBindingRedirects.cache
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7_дом_19_06_2.Form1.resources
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7_дом_19_06_2.Properties.Resources.resources
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csproj.GenerateResource.cache
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.csproj.CoreCompileInputs.cache
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.exe
+G:\Ніна\Академія\Windows Forms i WPF\WindowsFormsApp7 дом 19-06 2\WindowsFormsApp7 дом 19-06 2\obj\Debug\WindowsFormsApp7 дом 19-06 2.pdb

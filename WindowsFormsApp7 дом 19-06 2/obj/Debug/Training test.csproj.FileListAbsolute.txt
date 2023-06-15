@@ -1,0 +1,22 @@
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\bin\Debug\Training test.exe.config
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\bin\Debug\Training test.exe
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\bin\Debug\Training test.pdb
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.AssemblyReference.cache
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.SuggestedBindingRedirects.cache
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training_test.Form1.resources
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training_test.Properties.Resources.resources
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.GenerateResource.cache
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.CoreCompileInputs.cache
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.exe
+D:\NINA\GitHub\WindowsFormsApp7 test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.pdb
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\bin\Debug\Training test.exe.config
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\bin\Debug\Training test.exe
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\bin\Debug\Training test.pdb
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.AssemblyReference.cache
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.SuggestedBindingRedirects.cache
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training_test.Form1.resources
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training_test.Properties.Resources.resources
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.GenerateResource.cache
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.csproj.CoreCompileInputs.cache
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.exe
+D:\NINA\GitHub\Training test\WindowsFormsApp7 дом 19-06 2\obj\Debug\Training test.pdb
